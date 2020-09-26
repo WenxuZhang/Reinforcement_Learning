@@ -12,8 +12,8 @@ The tools learned in this Specialization can be applied to game development (AI)
 ## Table of Contents
 * [Fundamentals of Reinforcement Learning](#fundamentals-of-reinforcement-learning)
 * [Sample-based Learning Methods](#sample-based-learning-methods)
-* [Prediction and Control with Function Approximation](#course3)
-* [A Complete Reinforcement Learning System (Capstone)](#a-complete-reinforcement-learning-system-(Capstone))
+* [Prediction and Control with Function Approximation](#prediction-and-control-with-function-approximation)
+* [A Complete Reinforcement Learning System (Capstone)](#a-complete-reinforcement-learning-system-(capstone))
 ## Fundamentals of Reinforcement Learning
 Reinforcement Learning is a subfield of Machine Learning, but is also a general purpose formalism for automated decision-making and AI. This course introduces you to statistical learning techniques where an agent explicitly takes actions and interacts with the world. Understanding the importance and challenges of learning agents that make decisions is of vital importance today, with more and more companies interested in interactive agents and intelligent decision-making. 
 
