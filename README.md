@@ -5,11 +5,7 @@ Harnessing the full potential of artificial intelligence requires adaptive learn
 By the end of this Specialization, learners will understand the foundations of much of modern probabilistic artificial intelligence (AI) and be prepared to take more advanced courses or to apply AI tools and ideas to real-world problems. This content will focus on “small-scale” problems in order to understand the foundations of Reinforcement Learning, as taught by world-renowned experts at the University of Alberta, Faculty of Science.</br></br>
 The tools learned in this Specialization can be applied to game development (AI), customer interaction (how a website interacts with customers), smart assistants, recommender systems, supply chain, industrial control, finance, oil & gas pipelines, industrial control systems, and more.</br></br>
 ## Table of Contents
-* [Fundanmentals of Reinforcement Learning] (#course1)
-* [Sample-based Learning Methods] (#course2)
-* [Prediction and Control with Function Approximation] (#course3)
-* [A Complete Reinforcement Learning System (Capstone)] (#course4)
-
-## Table of Contents
-  * [Installation](#installation)
-  * [Implementations](#implementations)
+* [Fundanmentals of Reinforcement Learning](#course1)
+* [Sample-based Learning Methods](#course2)
+* [Prediction and Control with Function Approximation](#course3)
+* [A Complete Reinforcement Learning System (Capstone)](#course4)
