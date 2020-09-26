@@ -9,3 +9,7 @@ The tools learned in this Specialization can be applied to game development (AI)
 * [Sample-based Learning Methods] (#course2)
 * [Prediction and Control with Function Approximation] (#course3)
 * [A Complete Reinforcement Learning System (Capstone)] (#course4)
+
+## Table of Contents
+  * [Installation](#installation)
+  * [Implementations](#implementations)
