@@ -13,7 +13,7 @@ The tools learned in this Specialization can be applied to game development (AI)
 * [Fundamentals of Reinforcement Learning](#fundamentals-of-reinforcement-learning) ([coursera](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning))
 * [Sample-based Learning Methods](#sample-based-learning-methods)
 * [Prediction and Control with Function Approximation](#prediction-and-control-with-function-approximation)
-* [A Complete Reinforcement Learning System (Capstone)](#a-complete-reinforcement-learning-system--(capstone))
+* [A Complete Reinforcement Learning System](#a-complete-reinforcement-learning-system)
 ## Fundamentals of Reinforcement Learning
 Reinforcement Learning is a subfield of Machine Learning, but is also a general purpose formalism for automated decision-making and AI. This course introduces you to statistical learning techniques where an agent explicitly takes actions and interacts with the world. Understanding the importance and challenges of learning agents that make decisions is of vital importance today, with more and more companies interested in interactive agents and intelligent decision-making. 
 
@@ -55,7 +55,7 @@ By the end of this course, you will be able to:
 - Implement expected Sarsa and Q-learning with function approximation on a continuous state control task
 - Understand objectives for directly estimating policies (policy gradient objectives)
 - Implement a policy gradient method (called Actor-Critic) on a discrete state environment
-## A Complete Reinforcement Learning System (Capstone)
+## A Complete Reinforcement Learning System
 In this final course, you will put together your knowledge from Courses 1, 2 and 3 to implement a complete RL solution to a problem. This capstone will let you see how each component---problem formulation, algorithm selection, parameter selection and representation design---fits together into a complete solution, and how to make appropriate choices when deploying RL in the real world. This project will require you to implement both the environment to stimulate your problem, and a control agent with Neural Network function approximation. In addition, you will conduct a scientific study of your learning system to develop your ability to assess the robustness of RL agents. To use RL in the real world, it is critical to (a) appropriately formalize the problem as an MDP, (b) select appropriate algorithms, (c ) identify what choices in your implementation will have large impacts on performance and (d) validate the expected behaviour of your algorithms. This capstone is valuable for anyone who is planning on using RL to solve real problems.
 
 To be successful in this course, you will need to have completed Courses 1, 2, and 3 of this Specialization or the equivalent.
