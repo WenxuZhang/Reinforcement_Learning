@@ -10,7 +10,7 @@ By the end of this Specialization, learners will understand the foundations of m
 The tools learned in this Specialization can be applied to game development (AI), customer interaction (how a website interacts with customers), smart assistants, recommender systems, supply chain, industrial control, finance, oil & gas pipelines, industrial control systems, and more.
 
 ## Table of Contents
-* [Fundamentals of Reinforcement Learning](#fundamentals-of-reinforcement-learning) [coursera](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)
+* [Fundamentals of Reinforcement Learning](#fundamentals-of-reinforcement-learning) ([coursera](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning))
 * [Sample-based Learning Methods](#sample-based-learning-methods)
 * [Prediction and Control with Function Approximation](#prediction-and-control-with-function-approximation)
 * [A Complete Reinforcement Learning System (Capstone)](#a-complete-reinforcement-learning-system--(capstone))
