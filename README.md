@@ -11,7 +11,7 @@ The tools learned in this Specialization can be applied to game development (AI)
 
 ## Table of Contents
 * [Fundamentals of Reinforcement Learning](#fundamentals-of-reinforcement-learning)
-* [Sample-based Learning Methods](#course2)
+* [Sample-based Learning Methods](#sample-based-learning-methods)
 * [Prediction and Control with Function Approximation](#course3)
 * [A Complete Reinforcement Learning System (Capstone)](#a-complete-reinforcement-learning-system-(Capstone))
 ## Fundamentals of Reinforcement Learning
